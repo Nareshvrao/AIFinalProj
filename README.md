@@ -1,2 +1,2 @@
 # AIFinalProj
-Reinforcement
+Reinforcement Learning
