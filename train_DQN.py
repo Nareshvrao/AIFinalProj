@@ -12,7 +12,7 @@ if __name__ == '__main__':
     agent = DQNAgent()
     
 
-    for e in range(4):
+    for e in range(600):
         init_state = env.reset("DQN")
         init_state = process_state_image(init_state)
 
