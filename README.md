@@ -1,5 +1,5 @@
-# AIFinalProj
-Reinforcement Learning
+# PPO & DQN Reinforcement Learning with car-racing game 
+
 
 ## Archive Contents
 
