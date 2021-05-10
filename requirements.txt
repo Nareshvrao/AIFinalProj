@@ -1,0 +1,7 @@
+numpy
+opencv-contrib-python
+gym 0.10
+tensorflow >= 1.15.0, <=2.0.0
+pytorch 0.4
+visdom 0.1.8
+
